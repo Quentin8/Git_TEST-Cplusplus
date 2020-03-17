@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Git_TEST.dir/main.cpp.o  -o Git_TEST 
